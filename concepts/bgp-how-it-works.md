@@ -14,3 +14,7 @@ The AS path is effectively a recording of all of this AS path information. The A
 If a BGP session is established between two neighbors in different autonomous systems, the session is **External BGP (eBGP)**, and if the session is established between two neighbors in the same AS, the session is **internal BGP**.
 
 Multiple routers usually exist within an AS, so iBGP is necessary whenever BGP advertised information must be passed within a given AS.
+
+## References
+* [Fundamentals of BGP](https://www.kwtrain.com/blog/bgp-pt1)
+* [BGP Basics: Internal And External BGP](https://www.networkcomputing.com/data-centers/bgp-basics-internal-and-external-bgp)
